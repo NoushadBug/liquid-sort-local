@@ -1,0 +1,16 @@
+{
+  "title": "Liquid Sort",
+  "description": "Liquid Sort is a HTML5 game where you have to sort the colored water in the glasses until all colors in the same glass.",
+  "selectTube":  "SELECT TUBE",
+  "selectLevel": "SELECT LEVEL",
+  "level": "LVL[NUMBER]",
+  "clear": "LVL[NUMBER] CLEAR",
+  "score": "[NUMBER]PTS",
+  "timesup": "TIME\"S UP!",
+  "exitTitle": "EXIT GAME",
+  "exitMessage": "ARE YOU SURE\nYOU WANT TO\nQUIT THE GAME?",
+  "share": "SHARE YOUR SCORE",
+  "resultTitle": "GAME OVER",
+  "resultLevelTitle": "LEVEL [NUMBER]",
+  "resultDesc": "[NUMBER]PTS"
+}
